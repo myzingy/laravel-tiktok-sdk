@@ -1,5 +1,10 @@
 composer.json
 ```
+"autoload": {
+        "psr-4": {
+            "Fengers\\TikTok\\":"vendor/myzingy/laravel-tiktok-sdk/src"
+        }
+    },
 "require": {"myzingy/laravel-tiktok-sdk": "master"}
 "repositories": [
         {
