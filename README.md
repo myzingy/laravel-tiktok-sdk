@@ -1,3 +1,6 @@
+composer.json
+```
+"require": {"myzingy/laravel-tiktok-sdk": "master"}
 "repositories": [
         {
             "type":"package",
@@ -12,3 +15,4 @@
             }
         }
     ]
+```
